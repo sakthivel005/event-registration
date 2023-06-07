@@ -156,12 +156,8 @@ background: url(Logo.png);
 ```
 
 ## OUTPUT:
-![out 1](https://github.com/sakthivel005/event-registration/assets/120550359/3a131506-49f5-4c8c-a3fd-df8f85b3184d)
 
-
-![out 2](https://github.com/sakthivel005/event-registration/assets/120550359/6b7d0f5e-8cf2-48d4-bfac-20cf3bd07f0d)
-
-![out 3](https://github.com/sakthivel005/event-registration/assets/120550359/81adaa1c-885a-46ff-9f59-75ff6a5588f6)
+![out 1](https://github.com/sakthivel005/event-registration/assets/120550359/15e93a95-89de-46af-9e74-8cc680985e95)
 
 
 
